@@ -20,3 +20,8 @@ echo \
 sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ```
+2. Give permission to listen for incoming connections
+```bash
+ufw allow 4001
+```
+3.
