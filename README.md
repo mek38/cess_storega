@@ -1,8 +1,8 @@
 # cess_storega
 Cess-Storage-Node
 ## Pre-requisites
--# of CPU Cores => 4
--Memory => 8GB
+- Total Number of CPU Cores => 4
+- Memory => 8GB
 1. Install Docker
 ```bash
 # Add Docker's official GPG key
